@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Currently, I’m a software development architect working with NovoVivo@California & Lavita@Singapore (Independent Contractor) where I work with wonderful fellows on privacy computing technology, which is aimed at privacy-preserving blockchain-AI based healthcare data analysis.
+Currently, I’m a software development architect working with NovoVivo@California and Lavita@Singapore (Independent Contractor) where I work with wonderful fellows on privacy computing technology, which is aimed at privacy-preserving blockchain-AI based healthcare data analysis.
 
 I received my Ph.D. in Computer Engineering at the New Jersey Institute of Technology under the supervision of Dr. A. Khreishah and Dr. I. Khalil. My main areas of research were Network Security and Cloud Computing Security, and my dissertation was on “Secure Entity Authentication.”
 
