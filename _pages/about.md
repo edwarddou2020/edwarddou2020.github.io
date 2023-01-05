@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I’m currently a privacy computing software development architect working with Novo Vivo Inc. @U.S.A. & Lavita.AI @ Singapore (Independent Contractor) where I work with wonderful fellows on privacy computing technology and software architecture, which is aimed at privacy-preserving blockchain-AI based healthcare data analysis.
+I’m currently a privacy computing software development architect working with NovoVivo@U.S.A. & Lavita@Singapore (Independent Contractor) where I work with wonderful fellows on privacy computing technology and software architecture, which is aimed at privacy-preserving blockchain-AI based healthcare data analysis.
 
 I received my Ph.D. in Computer Engineering at the New Jersey Institute of Technology under the supervision of Dr. A. Khreishah and Dr. I. Khalil. My main areas of research were Network Security and Cloud Computing Security, and my dissertation was on “Secure Entity Authentication.”
 
@@ -17,4 +17,3 @@ I received my Ph.D. in Computer Engineering at the New Jersey Institute of Techn
 * Working with [Lavita](https://www.lavita.ai/), a blockchain-AI based next generation healthcare technology company based in Singapore aiming to revolutionize the way 8 billion individuals around the world diagnose, analyze, and treat health and genomic issues, leading to earlier intervention and improved outcome 2022.
 * Our paper [A novel privacy-preserving federated genome-wide association study framework and its application in identifying potential risk variants in ankylosing spondylitis ](https://academic.oup.com/bib/article-abstract/22/3/bbaa090/5860679) is published at Briefings in Bioinformatics 2021.
 * Our paper [Data Sharing and Privacy in Pharmaceutical Studies]([https://aclanthology.org/2022.csrr-1.6/](https://www.ingentaconnect.com/content/ben/cpd/2021/00000027/00000007/art00003)) is published at Current Pharmaceutical Design 2021.
-* Our paper [Systematization of Knowledge (SoK): A Systematic Review of Software-Based Web Phishing Detection](https://ieeexplore.ieee.org/abstract/document/8036198), is  published at IEEE Communications Surveys & Tutorials 2017.
