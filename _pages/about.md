@@ -9,9 +9,9 @@ redirect_from:
 
 ---
 
-I’m currently a Venture Fellow at Camford Capital where I work with an interdisciplinary team on several internal innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing (NLP) in the biomedical, clinical, and biological domains.
+I’m currently a privacy computing software development architect working with Novo Vivo Inc. @U.S.A. & Lavita.AI @ Singapore (Independent Contractor) where I work with wonderful fellows on privacy computing technology and software architecture, which is aimed at privacy-preserving blockchain-AI based healthcare data analysis.
 
-Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU) under the supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/) and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My main areas of research were AI and NLP, and my dissertation was on “Advancing Identification of Causal Relations in Natural Language”. I worked on several projects including building large language models with commonsense reasoning and causal relation understanding capabilities, and analytical frameworks for understanding how individuals make various decisions on social media, including the spread of disinformation and misinformation.
+I received my Ph.D. in Computer Engineering at the New Jersey Institute of Technology under the supervision of Dr. A. Khreishah and Dr. I. Khalil. My main areas of research were Network Security and Cloud Computing Security, and my dissertation was on “Secure Entity Authentication.”
 
 ### News & updates
 * <a class="btn btn-success btn-sm text-decoration-none" href="https://github.com/phosseini/GisPy" role="button">GisPy Code</a> Our paper [GisPy: A Tool for Measuring Gist Inference Score in Text](https://arxiv.org/abs/2205.12484) is accepted to the 4th Workshop on Narrative Understanding @ NAACL 2022.
