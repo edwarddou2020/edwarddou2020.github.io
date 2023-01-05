@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Edward Dou"
+title: "Edward"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Edward Dou, Ph.D."
+  name: "Edward, Ph.D."
   avatar: "edward.jpg"
-  bio: "Privacy Computing, Software Architect"
+  bio: "Privacy Computing & Software Architect"
   location: "Toronto, CANADA"
   employer:
   pubmed:
