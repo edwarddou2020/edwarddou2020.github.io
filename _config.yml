@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Edward"
 title_separator: "-"
-name: &name "Your Name"
+name: &name "Edward"
 description: &description "personal description"
 url: https://edwarddou2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
