@@ -14,8 +14,7 @@ Currently, I’m a software development architect working with NovoVivo@Californ
 I received my Ph.D. in Computer Engineering at the New Jersey Institute of Technology under the supervision of Dr. A. Khreishah and Dr. I. Khalil. My main areas of research were Network Security and Cloud Computing Security, and my dissertation was on “Secure Entity Authentication.” 
 
 * Total number of publications: 15
-
-* Total Number of citations: 1508
+* Total number of citations: 1508
 
 ### News & updates
 * Working with [Lavita](https://www.lavita.ai/), a blockchain-AI based next generation healthcare technology company based in Singapore aiming to revolutionize the way 8 billion individuals around the world diagnose, analyze, and treat health and genomic issues, leading to earlier intervention and improved outcome 2022.
